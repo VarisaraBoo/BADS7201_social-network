@@ -1,0 +1,147 @@
+head,relate,tail
+Bernd Doppler,Parent of,Helge Doppler
+Bernd Doppler,married,Greta Doppler
+Bernd Doppler,Grand Parents of,Peter Doppler
+Bernd Doppler,Grand Parents of,Elisabeth Doppler
+Bernd Doppler,Grand Parents of,Franziska Doppler
+Greta Doppler,married,Bernd Doppler
+Greta Doppler,Parent of,Helge Doppler
+Greta Doppler,Grand Parents of,Peter Doppler
+Greta Doppler,Grand Parents of,Elisabeth Doppler
+Greta Doppler,Grand Parents of,Franziska Doppler
+Helge Doppler,Child of,Bernd Doppler
+Helge Doppler,Child of,Greta Doppler
+Helge Doppler,Parent of,Peter Doppler
+Helge Doppler,Grand Parents of,Elisabeth Doppler
+Helge Doppler,Grand Parents of,Franziska Doppler
+Peter Doppler,Child of,Helge Doppler
+Peter Doppler,married,Charlotte Doppler
+Peter Doppler,Parent of,Elisabeth Doppler
+Peter Doppler,Parent of,Franziska Doppler
+Peter Doppler,Grand Child of,Greta Doppler
+Peter Doppler,Grand Child of,Bernd Doppler
+H.G. Tannhaus,Grand Parents of,Charlotte Doppler
+Charlotte Doppler,Grand Child of,H.G. Tannhaus
+Charlotte Doppler,married,Peter Doppler
+Charlotte Doppler,Parent of,Elisabeth Doppler
+Charlotte Doppler,Parent of,Franziska Doppler
+Charlotte Doppler,Child of,Elisabeth Doppler
+Charlotte Doppler,Child of,NOAH
+Elisabeth Doppler,Parent of,Charlotte Doppler
+Elisabeth Doppler,married,NOAH
+Elisabeth Doppler,Child of,Charlotte Doppler
+Elisabeth Doppler,Child of,Peter Doppler
+Elisabeth Doppler,Grand Child of,Helge Doppler
+Elisabeth Doppler,Grand Child of,Bernd Doppler
+Elisabeth Doppler,Grand Child of,Greta Doppler
+NOAH,married,Elisabeth Doppler
+NOAH,Parent of,Charlotte Doppler
+NOAH,siblings,Agnes Nielsen
+NOAH,Child of,Bartosz Tiedemann
+NOAH,Child of,Silja
+Franziska Doppler,Child of,Peter Doppler
+Franziska Doppler,Child of,Charlotte Doppler
+Franziska Doppler,Grand Child of,Helge Doppler
+Franziska Doppler,Grand Child of,Bernd Doppler
+Franziska Doppler,Grand Child of,Greta Doppler
+Hannah Kahnwald,Parent of,Jonas Kahnwald
+Hannah Kahnwald,married,Mikkel Nielsen
+Hannah Kahnwald,married,Egon Tiedemann
+Hannah Kahnwald,Parent of,Silja
+Jonas Kahnwald,Child of,Hannah Kahnwald
+Jonas Kahnwald,Child of,Mikkel Nielsen
+Mikkel Nielsen,married,Hannah Kahnwald
+Mikkel Nielsen,Child of,Ines Kahnwald
+Mikkel Nielsen,Child of,Katharina Nielsen
+Mikkel Nielsen,Child of,Ulrich Nielsen
+Mikkel Nielsen,Grand Child of,Jana Nielsen
+Mikkel Nielsen,Grand Child of,Tronte Nielsen
+Mikkel Nielsen,Grand Child of,Hermann Albers
+Mikkel Nielsen,Grand Child of,Agnes Nielsen
+Ines Kahnwald,Parent of,Mikkel Nielsen
+Ines Kahnwald,Child of,Daniel Kahnwald
+Daniel Kahnwald,Parent of,Ines Kahnwald
+Katharina Nielsen,Parent of,Mikkel Nielsen
+Katharina Nielsen,Parent of,Magnus Nielsen
+Katharina Nielsen,Parent of,Martha Nielsen
+Katharina Nielsen,married,Ulrich Nielsen
+Katharina Nielsen,Child of,Hermann Albers
+Ulrich Nielsen,Child of,Jana Nielsen
+Ulrich Nielsen,Child of,Tronte Nielsen
+Ulrich Nielsen,Parent of,Mikkel Nielsen
+Ulrich Nielsen,married,Katharina Nielsen
+Ulrich Nielsen,Parent of,Mikkel Nielsen
+Ulrich Nielsen,Parent of,Magnus Nielsen
+Ulrich Nielsen,Parent of,Martha Nielsen
+Ulrich Nielsen,siblings,Mads Nielsen
+Magnus Nielsen,siblings,Mikkel Nielsen
+Magnus Nielsen,siblings,Martha Nielsen
+Magnus Nielsen,Child of,Ulrich Nielsen
+Magnus Nielsen,Child of,Katharina Nielsen
+Magnus Nielsen,Grand Child of,Jana Nielsen
+Magnus Nielsen,Grand Child of,Tronte Nielsen
+Magnus Nielsen,Grand Child of,Hermann Albers
+Magnus Nielsen,Grand Child of,Agnes Nielsen
+Martha Nielsen,Child of,Ulrich Nielsen
+Martha Nielsen,Child of,Katharina Nielsen
+Martha Nielsen,siblings,Mikkel Nielsen
+Martha Nielsen,siblings,Magnus Nielsen
+Martha Nielsen,Grand Child of,Jana Nielsen
+Martha Nielsen,Grand Child of,Tronte Nielsen
+Martha Nielsen,Grand Child of,Hermann Albers
+Martha Nielsen,Grand Child of,Agnes Nielsen
+Jana Nielsen,married,Tronte Nielsen
+Jana Nielsen,Parent of,Ulrich Nielsen
+Jana Nielsen,Parent of,Mads Nielsen
+Jana Nielsen,Grand Parents of,Magnus Nielsen
+Jana Nielsen,Grand Parents of,Martha Nielsen
+Jana Nielsen,Grand Parents of,Mikkel Nielsen
+Tronte Nielsen,married,Jana Nielsen
+Tronte Nielsen,Parent of,Ulrich Nielsen
+Tronte Nielsen,Parent of,Mads Nielsen
+Tronte Nielsen,Child of,Agnes Nielsen
+Tronte Nielsen,Grand Parents of,Magnus Nielsen
+Tronte Nielsen,Grand Parents of,Martha Nielsen
+Tronte Nielsen,Grand Parents of,Mikkel Nielsen
+Agnes Nielsen,Parent of,Tronte Nielsen
+Agnes Nielsen,siblings,NOAH
+Agnes Nielsen,Grand Parents of,Ulrich Nielsen
+Agnes Nielsen,Grand Parents of,Mikkel Nielsen
+Agnes Nielsen,Grand Parents of,Magnus Nielsen
+Agnes Nielsen,Grand Parents of,Martha Nielsen
+Agnes Nielsen,Child of,Bartosz Tiedemann
+Agnes Nielsen,Child of,Silja
+Hermann Albers,Parent of,Katharina Nielsen
+Hermann Albers,Grand Parents of,Magnus Nielsen
+Hermann Albers,Grand Parents of,Martha Nielsen
+Hermann Albers,Grand Parents of,Mikkel Nielsen
+Egon Tiedemann,married,Doris Tiedemann
+Egon Tiedemann,Parent of,Claudia Tiedemann
+Egon Tiedemann,Grand Parents of,Regina Tiedemann
+Egon Tiedemann,Grand Parents of,Bartosz Tiedemann
+Egon Tiedemann,married,Hannah Kahnwald
+Egon Tiedemann,Parent of,Silja
+Doris Tiedemann,Grand Parents of,Regina Tiedemann
+Doris Tiedemann,Grand Parents of,Bartosz Tiedemann
+Doris Tiedemann,married,Egon Tiedemann
+Doris Tiedemann,Parent of,Claudia Tiedemann
+Claudia Tiedemann,Grand Parents of,Bartosz Tiedemann
+Claudia Tiedemann,Child of,Egon Tiedemann
+Claudia Tiedemann,Child of,Doris Tiedemann
+Claudia Tiedemann,Parent of,Regina Tiedemann
+Regina Tiedemann,Grand Child of,Doris Tiedemann
+Regina Tiedemann,Grand Child of,Egon Tiedemann
+Regina Tiedemann,Child of,Claudia Tiedemann
+Regina Tiedemann,married,Aleksander Tiedemann
+Regina Tiedemann,Parent of,Bartosz Tiedemann
+Aleksander Tiedemann,married,Regina Tiedemann
+Aleksander Tiedemann,Parent of,Bartosz Tiedemann
+Bartosz Tiedemann,Child of,Aleksander Tiedemann
+Bartosz Tiedemann,Child of,Regina Tiedemann
+Bartosz Tiedemann,Grand Child of,Claudia Tiedemann
+Bartosz Tiedemann,Grand Child of,Egon Tiedemann
+Bartosz Tiedemann,Grand Child of,Doris Tiedemann
+Bartosz Tiedemann,married,Silja
+Silja,Child of,Egon Tiedemann
+Silja,Child of,Hannah Kahnwald
+Silja,married,Bartosz Tiedemann
